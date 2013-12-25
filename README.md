@@ -11,9 +11,9 @@ Això és una llista no ordenada:
 
 I aquesta és ordenada
 
-1 Primer
-2 Segon
-3 Tercer
+1. Primer
+2. Segon
+3. Tercer
 
 ------------------------
 
@@ -31,5 +31,6 @@ $adeu = 'Adeu';
 echo $hola.$adeu;
 
 ```
-i aquí hi ha trocets de `codi`dins de la línia.
+
+i aquí hi ha trocets de `codi` dins de la línia.
 
